@@ -1,2 +1,2 @@
 # Define the variable board below.
-local _ariable = "board"
+local_variable = "board"
